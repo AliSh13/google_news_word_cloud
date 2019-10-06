@@ -1,7 +1,7 @@
 # Cкрипт выводит облако слов по темам на google news.
   
-#GoogleWordCloud(topic, rus = False) \n
-#по умолчанию задан английский язык и регион, тему нужно выбирать самомстоятельно.
+#GoogleWordCloud(topic, rus = False) 
+по умолчанию задан английский язык и регион, тему нужно выбирать самомстоятельно.
 
 
 #ch_l = GoogleWordCloud(topic = 'Champions League')
